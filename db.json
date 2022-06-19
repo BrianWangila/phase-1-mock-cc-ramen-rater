@@ -39,6 +39,22 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Porridge",
+      "restaurant": "Yaa Kee Restaurant",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/94/0f/c4/yee-kee-porridge-restaurant.jpg",
+      "rating": "8",
+      "comment": "very exquisite",
+      "id": 6
+    },
+    {
+      "name": "Kerukut",
+      "restaurant": "Bubur Ayam",
+      "image": "https://img.freepik.com/free-photo/bubur-ayam-indonesian-rice-porridge-with-shredded-chicken-served-with-kerukpuk-cracker-soy-sauce-fried-soy-bean-sambal_511235-2794.jpg?w=2000",
+      "rating": "9",
+      "comment": "You should try",
+      "id": 7
     }
   ]
 }
