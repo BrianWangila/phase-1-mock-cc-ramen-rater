@@ -40,7 +40,7 @@ const addNewMeals = () => {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Accept: "appalication/json"
+        Accept: "application/json"
       },
       body: JSON.stringify(newMeals)
     })
